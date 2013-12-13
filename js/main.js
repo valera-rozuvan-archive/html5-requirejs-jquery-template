@@ -14,7 +14,7 @@
         }
     });
 
-    require(['jquery'], function($) {
+    require(['jquery'], function ($) {
         $.noConflict();
     });
 }).call(this);
